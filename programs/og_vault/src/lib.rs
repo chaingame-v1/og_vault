@@ -2,7 +2,7 @@ use anchor_lang::prelude::*;
 use anchor_spl::token::{Mint, Token, TokenAccount, Transfer};
 use solana_program::{pubkey, pubkey::Pubkey};
 
-declare_id!("4vDCnxn3hMvNsKbRNMapuktpHYjka9Jv49Vzoq1uNMV2");
+declare_id!("9pQFAH6qKdWcRXme1Wg7iZN27MwbPWTBAMJtKAQZPFyH");
 
 const ADMIN_PUBKEY: Pubkey = pubkey!("BJAqzgRko9rD3DYo93P7CjMGvpLDeCpNpWbw2ghvA6xS");
 

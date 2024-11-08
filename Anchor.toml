@@ -2,7 +2,10 @@
 seeds = false
 skip-lint = false
 [programs.devnet]
-og_vault = "4vDCnxn3hMvNsKbRNMapuktpHYjka9Jv49Vzoq1uNMV2"
+og_vault = "9pQFAH6qKdWcRXme1Wg7iZN27MwbPWTBAMJtKAQZPFyH"
+
+[workspace]
+repository = "https://github.com/chaingame-v1/og_vault.git"
 
 [registry]
 url = "https://api.apr.dev"
